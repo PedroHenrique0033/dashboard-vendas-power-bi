@@ -26,7 +26,7 @@ Dashboard interativo desenvolvido no Power BI com o objetivo de analisar indicad
 
 ## 📸 Preview do Dashboard
 
-![Dashboard de Vendas](imagens/dashboard-preview.png)
+![Dashboard de Vendas](imagens/image.png)
 
 ## 📂 Estrutura do projeto
 
