@@ -45,4 +45,4 @@ Pedro Henrique
 
 Estudante de Ciência de Dados e Inteligência Artificial, com formação em Análise e Desenvolvimento de Sistemas.
 
-LinkedIn: SEU LINK AQUI
+LinkedIn: https://www.linkedin.com/in/pedro-ribeiro-308579345/
